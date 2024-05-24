@@ -13,9 +13,9 @@ Traditional/Simplified Chinese, English, Japanese, Spanish, French, German, Ital
 3. Execute **ollama run llama3** on Terminal/Powershell (this will pull the latest Llama3 model on Ollama to your computer, ~4.7GB)
 
 ## Usage
-1. Choose and Run the correct executable based on your OS
+1. From Releases, Choose, Download, and Run the correct executable based on your OS
 2. Select the target language that you want
 3. Select a .docx file to be translated
-4. Choose ouput file location and enter the name of the ouput file
+4. Choose ouput file location and Enter the name of the ouput file
 5. Click Start Translation
 6. Close the window and/or Quit/Kill the Ollama service/process 
