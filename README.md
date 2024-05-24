@@ -7,7 +7,8 @@ Traditional/Simplified Chinese, English, Japanese, Spanish, French, German, Ital
 
 
 ## Prerequisites & Installation
-1. A decent Nvidia GPU (on Windows/Linux) or Mac (M1~), some AMD GPUs on Linux/Windows work, but not on Mac [https://ollama.com/blog/amd-preview](https://ollama.com/blog/amd-preview)
+1. A decent Nvidia GPU (on Windows/Linux) or Mac (M1~),
+   some AMD GPUs on Linux/Windows work, but not on Mac [https://ollama.com/blog/amd-preview](https://ollama.com/blog/amd-preview)
 2. Download Ollama [https://ollama.com/download](https://ollama.com/download)
 3. Execute **ollama run llama3** on Terminal/Powershell (this will pull the latest Llama3 model on Ollama to your computer, ~4.7GB)
 
